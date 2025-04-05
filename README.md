@@ -7,5 +7,5 @@ To start using the site you can local host it by downloading the files as zip, *
 **Another way you can do that is by finding it cloud hosted in tiiny.site here [squarescript.tiiny.site ](https://squarescript.tiiny.site/)**
 
 
-
+## Feel free to commit changes to the project (adding new features, fixing bugs)!
 
